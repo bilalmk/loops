@@ -6,7 +6,7 @@ while (counter < 5){
 };
 
 // EXAMPLE!!
-// Imagine you have to catch a bus in 5 minutes make a typescript while loop program for it
+// Imagine you have to catch a bus in 5 minutes make a typescript while loop program for itdd
 
 let minuteinBus = 5
 while(minuteinBus > 0) {
